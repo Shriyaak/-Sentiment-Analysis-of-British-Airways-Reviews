@@ -1,4 +1,5 @@
-
+## Certificate of Completion 
+![cetf](https://github.com/Shriyaak/Sentiment-Analysis-of-British-Airways-Reviews/blob/80b20c6a3183252798802c157cc199247a81c7cd/BA_cert.pdf) 
 
 ## Task 1: Sentiment Analysis & Word Cloud Visualization
 This task involves performing sentiment analysis on customer reviews of British Airways using natural language processing techniques. The goal is to extract and visualize insights about customer perceptions through:
